@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="354a1602-620c-4be0-a265-c176f007a43e" name="Changes" comment="fix: Test now uses mvc -&gt; passed!">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="recipe-controller-delete" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="RichardSimpson235" />
+        <option name="repository" value="simpson-gomez-griffin-sadat-recipe-management-p3" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="254NsBQryuoIH4ft6Cr9oh5rWrR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_React_Rev/TDD" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.revature.models" />
+      <recent name="com.revature.repositories" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Milanoboy\Desktop\GitHub_Repo\simpson-gomez-griffin-sadat-recipe-management-p3\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milanoboy\Desktop\GitHub_Repo\simpson-gomez-griffin-sadat-recipe-management-p3\src\main\resources" />
+      <recent name="C:\Users\Milanoboy\Desktop\GitHub_Repo\simpson-gomez-griffin-sadat-recipe-management-p3\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RecipeServiceTest.updateRecipe">
+    <configuration name="RecipeRepositoryTest.updateRecipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecipeManagementSystemBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.repositories.RecipeRepositoryTest" />
+      <option name="METHOD_NAME" value="updateRecipe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeServiceTest.createRecipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecipeManagementSystemBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.services" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.services.RecipeServiceTest" />
+      <option name="METHOD_NAME" value="createRecipe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeServiceTest.deleteRecipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecipeManagementSystemBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.services" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.services.RecipeServiceTest" />
+      <option name="METHOD_NAME" value="deleteRecipe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeServiceTest.searchRecipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecipeManagementSystemBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.services" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.services.RecipeServiceTest" />
+      <option name="METHOD_NAME" value="searchRecipe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeServiceTest.updateRecipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecipeManagementSystemBackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.services" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.services.RecipeServiceTest" />
+      <option name="METHOD_NAME" value="updateRecipe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RecipeServiceTest.updateRecipe" />
+        <item itemvalue="JUnit.RecipeServiceTest.searchRecipe" />
+        <item itemvalue="JUnit.RecipeServiceTest.deleteRecipe" />
+        <item itemvalue="JUnit.RecipeServiceTest.createRecipe" />
+        <item itemvalue="JUnit.RecipeRepositoryTest.updateRecipe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="354a1602-620c-4be0-a265-c176f007a43e" name="Changes" comment="" />
+      <created>1644782607782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644782607782</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fix: changed deleteRecipe return type to void">
+      <created>1644868158127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644868158127</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: added @">
+      <created>1644868357545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644868357545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: changed regex &quot;.matches&quot; to &quot;.contains&quot; in searchRecipe method">
+      <created>1644938718814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644938718814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test: added RecipeServiceTest -&gt; All tests successful.">
+      <created>1644938825601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644938825601</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test: added RecipeRepositoryTest -&gt; All tests successful.">
+      <created>1644952581511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644952581511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: added RecipeRepository documentation -&gt; save(), findAll(), findById(), deleteById().">
+      <created>1644953247631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644953247631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: added Recipe Model fields -&gt; User, Instruction, Ingredients and Media.(with javadocs)">
+      <created>1644955580522</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644955580522</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: added @Repository annotation to RecipeRepository">
+      <created>1644965487535</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644965487535</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: test working with all fields now -&gt; all tests passed!">
+      <created>1644965542973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644965542973</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: Recipe model fields working with test now">
+      <created>1644966801186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644966801186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: All Recipe model fields working with RecipeServiceTest now">
+      <created>1644970511687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644970511687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: added RecipeController allRecipes(), and getRecipeById() functions.&#10;&#10;feat: added the Tests(all passed) of the functions mentioned above.">
+      <created>1645043463603</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645043463603</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: added UserController getUserById() function.&#10;&#10;feat: added the Test(passed) for getUserById()function mentioned above.">
+      <created>1645046959625</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645046959625</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: changed test method name to getUserById()">
+      <created>1645047554134</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645047554134</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: adding UserController and Test class">
+      <created>1645047946246</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645047946246</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: implemented UserControllerTest">
+      <created>1645048126880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645048126880</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: implemented UserControllerTest">
+      <created>1645048241625</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645048241625</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: implemented UserController for getUserById">
+      <created>1645048355721</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1645048355721</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix: changed the Ingredient field to a @OneToMany association">
+      <created>1645112240024</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1645112240025</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix: added cascade and set type to all">
+      <created>1645127933324</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1645127933324</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: added RecipeDTO to controller methods and test cases(passed)">
+      <created>1645228369205</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1645228369206</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat: added Post and Put methods for recipe controller&#10;&#10;feat: added test models for Post and Put methods(all passed)&#10;&#10;fix: restructured the controller methods to return just the DTO's">
+      <created>1645286596000</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1645286596000</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat: Implemented userDTO into user controller and test cases(all passed)">
+      <created>1645288277857</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1645288277857</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix: Method parameters to DTO's">
+      <created>1645289929247</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1645289929247</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat: added deleteRecipe() controller and test(passed)">
+      <created>1645408747956</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1645408747956</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix: Test now uses mvc -&gt; passed!">
+      <created>1645409571058</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1645409571058</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: added @Service Annotation" />
+    <MESSAGE value="fix: changed regex &quot;.matches&quot; to &quot;.contains&quot; in searchRecipe method" />
+    <MESSAGE value="test: added RecipeServiceTest -&gt; All tests successful." />
+    <MESSAGE value="test: added RecipeRepositoryTest -&gt; All tests successful." />
+    <MESSAGE value="feat: added RecipeRepository documentation -&gt; save(), findAll(), findById(), deleteById()." />
+    <MESSAGE value="feat: added Recipe Model fields -&gt; User, Instruction, Ingredients and Media.(with javadocs)" />
+    <MESSAGE value="fix: added @Repository annotation to RecipeRepository" />
+    <MESSAGE value="fix: test working with all fields now -&gt; all tests passed!" />
+    <MESSAGE value="fix: Recipe model fields working with test now" />
+    <MESSAGE value="fix: All Recipe model fields working with RecipeServiceTest now" />
+    <MESSAGE value="feat: added RecipeController allRecipes(), and getRecipeById() functions.&#10;&#10;feat: added the Tests(all passed) of the functions mentioned above." />
+    <MESSAGE value="feat: added UserController getUserById() function.&#10;&#10;feat: added the Test(passed) for getUserById()function mentioned above." />
+    <MESSAGE value="fix: changed test method name to getUserById()" />
+    <MESSAGE value="feat: adding UserController and Test class" />
+    <MESSAGE value="feat: implemented UserControllerTest" />
+    <MESSAGE value="feat: implemented UserController" />
+    <MESSAGE value="feat: implemented UserController for getUserById" />
+    <MESSAGE value="fix: changed the Ingredient field to a @OneToMany association" />
+    <MESSAGE value="fix: added cascade and set type to all" />
+    <MESSAGE value="feat: added RecipeDTO to controller methods and test cases(passed)" />
+    <MESSAGE value="feat: added Post and Put methods for recipe controller&#10;&#10;feat: added test models for Post and Put methods(all passed)&#10;&#10;fix: restructured the controller methods to return just the DTO's" />
+    <MESSAGE value="feat: Implemented userDTO into user controller and test cases(all passed)" />
+    <MESSAGE value="fix: Method parameters to DTO's" />
+    <MESSAGE value="feat: added deleteRecipe() controller and test(passed)" />
+    <MESSAGE value="fix: Test now uses mvc -&gt; passed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Test now uses mvc -&gt; passed!" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simpson_gomez_griffin_sadat_recipe_management_p3$RecipeRepositoryTest.ic" NAME="RecipeRepositoryTest Coverage Results" MODIFIED="1644965381536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.revature.repositories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/simpson_gomez_griffin_sadat_recipe_management_p3$RecipeServiceTest.ic" NAME="RecipeServiceTest Coverage Results" MODIFIED="1645022965326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.revature.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>
